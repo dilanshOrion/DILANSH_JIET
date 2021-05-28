@@ -1,0 +1,48 @@
+*p
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #ffb703;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.container{
+    width: 800px;
+    margin-left: 15rem;
+    margin-top: 1rem;
+    border: 1px solid #023047 ;
+}
+table td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+img{
+    width: 400px ;
+    height: 300px;
+}
+.text{
+    width: 50%;
+}
+.btn{
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    margin-left: 10rem;
+    
+}
+.btn1, .btn2,.btn3,.btn4 {
+    padding-right: 5rem;
+}
+#button{
+    padding: 10px 30px 10px 30px;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #023047;
+    margin-left: 20rem;
+}
+
