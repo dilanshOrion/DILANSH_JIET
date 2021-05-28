@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 15rem;
+    height: 15rem;
+    
+}
+
+.container{
+   margin-left: 10rem;
+   margin-right: 13rem;
+   margin-top: 2rem;
+   border: 1px solid black; 
+   background-color: grey;
+}
+h1{
+    text-align: center;
+
+}
