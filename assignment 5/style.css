@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+
+body{
+    /* font-family: -apple-system, BlinkMacSystemFont, sans-serif; */
+    font-family: 'Krub', sans-serif;}
+form {
+    margin: 10rem 35rem 0 30rem;
+    background-color: #ebedef;
+    border-radius: 6px;
+   
+   
+}
+
+.form-group {
+    padding: 20px 20px 0px 20px;
+}
+
+.label_12 {
+    padding-bottom: 5px;
+}
+
+#fg-ps {
+    padding: 0px 0 0 5rem;
+    font-size: small;
+    text-decoration: none;
+}
+
+button {
+    margin: 20px 0 20px 0;
+}
+
+.form-contral {
+    border-radius: 6px;
+}
+
+.img {
+    padding: 32px 0 24px;
+}
+
+h2 {
+    font-size: 18px;
+    text-align: center;
+    margin-right: 80px;
+}
+
+.main-div {
+    margin-bottom: -9rem;
+}
+
+.last-div {
+    border: .7px solid gray;
+    display: inline-block;
+    margin: 1rem 0rem 0 30rem;
+    padding: 15px 50px 15px 20px;
+    border-radius: 6px;
+    font-size: small;
+}
+
+.last-div h6 a{
+  text-decoration: dashed;
+}
+
+.last-items {
+    margin: 1rem 0rem 5rem 31rem;
+    margin-bottom: 5rem;
+}
+.last-items a{
+    text-decoration: none;   
+    font-size: 12px;
+    justify-content: space-between;
+  
+    
+}
+.lst{
+    padding-right: 1rem;
+   
+}
+.lst:last-child{
+    color: gray;
+}
