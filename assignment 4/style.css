@@ -1,0 +1,132 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* .container {
+    margin: 2rem 0 0 2rem;
+} */
+
+nav{
+    border: 1px solid ;
+    padding: 5px 0 5px 0;
+    background-color: #ef233c;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+    text-decoration: none;
+}
+
+.navbar li {
+    padding: 0rem .5rem .5rem .2rem;
+}
+
+.navbar a {
+    text-decoration: none;
+    justify-content: space-around;
+    display: flexbox;
+    padding-right: 1rem;
+    color: #fff;
+
+}
+
+/* nav hr{
+    padding-bottom: 10px;
+} */
+
+
+/* .cards{
+    display: table-column;
+    display: flexbox;
+} */
+
+.card{
+    float: left;
+    width: 30%;
+    padding: 0 -10px;
+
+    
+}
+.card  a{
+    text-decoration: none;
+}
+.cards{margin: 0 0 0 10px;
+    border: 1px solid;
+    padding-bottom: 1rem; 
+    margin-bottom: 1rem;
+    background-color: #2b2d42;
+    color: rgb(15, 15, 15);
+
+    
+}
+.cards::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+.card img{
+    width: 400px;
+    height: 400px;
+}
+.text{
+    display: block;
+    width: 400px;
+}
+
+.card_container_1{
+padding: 0 -3rem 1rem -1rem;
+    border: 1px solid;
+    margin: 1rem 1.5rem 1.5rem 0;
+    border-radius: 7px;
+    background-color: #8d99ae;
+
+}
+.card_container_2{
+    border: 1px solid;
+    margin: 1rem 1.5rem 1.5rem 0;
+    border-radius: 7px;
+    background-color: #8d99ae;
+
+}
+
+.card_container_3{
+    border: 1px solid;
+    margin: 1rem 1.5rem 1.5rem 0;
+    border-radius: 7px;
+    background-color: #8d99ae;
+
+}
+.card_container_4{
+    border: 1px solid;
+    margin: 1rem 1.5rem 1.5rem 0;
+    border-radius: 7px;
+    background-color: #8d99ae;
+
+}
+.card_container_5{
+    border: 1px solid;
+    margin: 1rem 1.5rem 1.5rem 0;
+    border-radius: 7px;
+    background-color: #8d99ae;
+
+}
+.card_container_6{
+    border: 1px solid;
+    margin: 1rem 1.5rem 1.5rem 0;
+    border-radius: 7px;
+    background-color: #8d99ae;
+
+}
+
+button{
+    padding: 1rem 2rem 1rem 2rem;
+    margin: 1rem 0 1rem 1.5rem  ;
+    border-radius: 10px;
+    color: black;
+    background-color: #edf2f4;
+}
